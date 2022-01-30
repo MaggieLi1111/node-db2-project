@@ -1,4 +1,4 @@
-const { getById, getAdd, getByVin } = require("../cars/cars-model")
+const { getById, getByVin } = require("../cars/cars-model")
 
 const vinValidator = require("vin-validator")
 
